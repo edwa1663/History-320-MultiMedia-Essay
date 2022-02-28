@@ -8,7 +8,10 @@ permalink: /essay-01.html
 
 # Historical Events that sparked anti war sediment
 Various events sparked major talks against war throughout the 20th Century. Anti-war sediment may alos appear following a nation that has lost a major conflict.
-1. World War 1 2. World War 2 3. Vietnam War 4. Iraq War
+1. World War 1 
+2. 2. World War 2 
+3. 3. Vietnam War 
+4. 4. Iraq War
 ## Introduction
 
 Here's some sample text, written in Markdown.
