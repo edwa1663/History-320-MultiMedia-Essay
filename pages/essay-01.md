@@ -7,11 +7,9 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # Historical Events that sparked anti war sediment
-Various events sparked major talks against war throughout the 20th Century. Anti-war sediment may alos appear following a nation that has lost a major conflict.
-1. World War 1 
-2. World War 2 
-3. Vietnam War 
-4. Iraq War
+
+{% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
+Various events sparked major talks against war throughout the 20th Century. Anti-war sediment may alos appear following a nation that has lost a major conflict. You can see the majority of the use of the word "war" was said during the wartime surronding the world wars. 
 ## Introduction
 
 Here's some sample text, written in Markdown.
