@@ -6,8 +6,8 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# My Essay Title
-Historical Events that sparked anti war sediment
+# Historical Events that sparked anti war sediment
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
