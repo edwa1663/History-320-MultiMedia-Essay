@@ -7,7 +7,7 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # Historical Events that sparked anti war sediment
-
+Various events sparked major talks against war throughout the 20th Century. Anti-war sediment may alos appear following a nation that has lost a major conflict.
 ## Introduction
 
 Here's some sample text, written in Markdown.
