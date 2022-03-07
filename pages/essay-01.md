@@ -7,6 +7,12 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # Historical Events that sparked anti war sediment
+---
+
+{% include feature/image.html filename="War Visualization Voyant.png" alt="Visualization graph of the use of the word "war" throughout 20th Century state of the union speeches" %}
+
+
+
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
 Various events sparked major talks against war throughout the 20th Century. Anti-war sediment may alos appear following a nation that has lost a major conflict. You can see the majority of the use of the word "war" was said during the wartime surronding the world wars. [^]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
