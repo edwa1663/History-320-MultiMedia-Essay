@@ -4,24 +4,18 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # Historical Events that sparked anti war sediment
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
 Various events sparked major talks against war throughout the 20th Century. Anti-war sediment may alos appear following a nation that has lost a major conflict. You can see the majority of the use of the word "war" was said during the wartime surronding the world wars. [^]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+---
+---
+ [GitHub Help](https://help.github.com/)
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
-
-Leave an empty line between headings and paragraphs.
-
-Font can be *Italic* or **Bold**.
-
-Citing your work is important! [^1]
-
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+### My First Subheading
 
 # Heading One
 
